@@ -52,7 +52,7 @@ console.log('request data...');
 // .catch(err => {
 //     console.error('Error', err);
 // })
-// .finally(() => console.log('fanally...'))
+// .finally(() => console.log('finally...'))
 
 // -----------------------
 // PROMISE MAIN
