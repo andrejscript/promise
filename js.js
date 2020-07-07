@@ -55,7 +55,7 @@ console.log('request data...');
 // .finally(() => console.log('finally...'))
 
 // -----------------------
-// PROMISE MAIN
+// PROMISE MAIN  -----------------
 // -----------------------
 
 // -----------------------
